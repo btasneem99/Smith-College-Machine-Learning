@@ -7,3 +7,6 @@
 [submodule "machine-learning-course-project-logistic-regression"]
 	path = machine-learning-course-project-logistic-regression
 	url = https://github.com/btasneem99/machine-learning-course-project-logistic-regression
+[submodule "machine-learning-CART"]
+	path = machine-learning-CART
+	url = https://github.com/btasneem99/machine-learning-CART
