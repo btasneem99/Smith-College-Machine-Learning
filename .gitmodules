@@ -1,0 +1,3 @@
+[submodule "machine-learning-splines"]
+	path = machine-learning-splines
+	url = https://github.com/btasneem99/machine-learning-splines
